@@ -21,15 +21,15 @@
     "@types/react": "18.2.19",
     "@types/react-dom": "18.2.7",
     "autoprefixer": "10.4.14",
-    "axios": "^1.4.0",
+    "axios": "^1.8.2",
     "bufferutil": "^4.0.7",
     "eslint": "8.46.0",
     "eslint-config-next": "13.4.13",
     "formik": "^2.4.3",
-    "next": "13.4.13",
-    "next-auth": "^4.23.0",
+    "next": "15.3.2",
+    "next-auth": "^4.24.11",
     "next-themes": "^0.2.1",
-    "postcss": "8.4.27",
+    "postcss": "8.5.3",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-hot-toast": "^2.4.1",
@@ -42,7 +42,7 @@
     "timeago.js": "^4.0.2",
     "typescript": "5.1.6",
     "utf-8-validate": "^6.0.3",
-    "ws": "^8.13.0",
+    "ws": "^8.18.2",
     "yup": "^1.2.0"
   }
 }
